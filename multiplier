@@ -1,0 +1,7 @@
+Age= (input("You can do multiplication only , Do you still want to continue y/n :"))
+
+A=  (int(input("Enter 1st number:"))) 
+B=  (int(input("Enter 2nd number:")))
+add = A * B 
+print("The product is : ", add)
+print("Have a nice day :)")
